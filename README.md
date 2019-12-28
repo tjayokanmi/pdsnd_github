@@ -7,11 +7,13 @@ Final Project Udacity Programming for Data Science Nanodegree
 ### Description
 This final project will test my ability to properly use git.
 
+I explore the US bikeshare data using python and I upload the files to GitHub using the git terminal.
+
 ### Files used
-bikeshare.py
-washington.csv
-new_york_city.csv
-chicago.csv
+bikeshare.py,
+washington.csv,
+new_york_city.csv, and 
+chicago.csv,
 
 ### Credits
 AAL
