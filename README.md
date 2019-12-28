@@ -1,15 +1,25 @@
 ### Date created
-Include the date you created this project and README file.
+12/28/2019
 
 ### Project Title
-Replace the Project Title
+Final Project Udacity Programming for Data Science Nanodegree
 
 ### Description
-Describe what your project is about and what it does
+This final project will test my ability to properly use git.
+
+I explore the US bikeshare data using python and I upload the files to GitHub using the git terminal.
 
 ### Files used
-Include the files used
+bikeshare.py,
+washington.csv,
+new_york_city.csv, and 
+chicago.csv,
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+AAL
+I get inspiration from these following sources:
+1. https://github.com/stephanderton/Explore-US-Bikeshare-Data
+2. https://github.com/khaledimad/Explore-US-Bikeshare-Data/blob/master/README.md
+3. https://github.com/khaledimad/Explore-US-Bikeshare-Data
+
 
